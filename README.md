@@ -1,3 +1,3 @@
 # Bot Discord Tuto
 
-Ce projet contient les étapes que vous aurez effectuées en suivant [le tutoriel](https://webdevtutos.wordpress.com/robot-discord/) et [le tutoriel](https://webdevtutos.wordpress.com/coder-robot-discord/).
+Ce projet contient les étapes que vous aurez effectuées en suivant [ce tutoriel](https://webdevtutos.wordpress.com/robot-discord/) et [ce tutoriel](https://webdevtutos.wordpress.com/coder-robot-discord/).
