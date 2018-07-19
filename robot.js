@@ -20,3 +20,5 @@ client.on("message", msg => {
     msg.channel.send("Pong !")
   }
 })
+
+client.login("Le token de votre robot.")
